@@ -1,0 +1,57 @@
+.border{
+    border: solid black 1px;
+    background-color: green;
+    padding:10px;
+    border-radius: 10px;
+}
+.prj1{
+    border:solid black 1px;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+}
+.prjflex{
+    display: flex;
+    gap: 5px;
+}
+.hed{
+    font-size: larger;
+}
+.black{
+    border:none;
+    background-color: gainsboro;
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    gap:30px;
+    border-radius: 10px;
+}
+.img1{
+    width:150px;
+    height: 150px;
+    border: none;
+    border-radius: 75px;
+}
+.para{
+    font-style: italic;
+}
+.profile{
+    border:solid black 1px;
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 10px;
+}
+.f1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.girl-img{
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+}
+.pad{
+    border: none;
+    padding:30px;
+}
